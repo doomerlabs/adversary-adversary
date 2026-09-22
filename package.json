@@ -4,7 +4,7 @@
   "description": "Reviews TypeScript adversaries for SDK usage, rule design, finding quality, tests, packaging, and publish readiness.",
   "type": "module",
   "private": true,
-  "license": "MIT",
+  "license": "Apache-2.0",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/doomerlabs/adversary-adversary.git"
